@@ -1,0 +1,9 @@
+1 - Sem definição de linhas
+
+2 - Como definir c/ notação de fração
+
+3 - É possível fazer a expansão vertical?
+
+4 - Colocar o código no Vscode
+
+5 - Usar media queries para definir quantidades diferentes de colunas
